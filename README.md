@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a Fresher Web Developer I'm currently learning web desiging I'm a quick learner and Active listener
+👋 Hey there! I'm Harshada Talekar, a passionate Creative Web Developer with a love for building visually stunning and user-friendly websites. Currently balancing my IT studies, I thrive on creativity and problem-solving. When I’m not coding, you’ll find me listening to music, chatting with friends, or Hangout with friends and family. I believe in constant learning and enjoy pushing my skills to the next level. Let’s connect and create something amazing together! 🚀✨
+
+
 
 
 ## 🌐 Socials:
