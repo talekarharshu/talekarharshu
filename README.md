@@ -13,13 +13,15 @@ Hey there! I'm Harshada Talekar, a passionate Creative Web Developer with a love
 🔗 Check out my work on GitHub:
 Chatbot
 
-[Tic-Tac-Toe
-](https://github.com/talekarharshu/Tic-Tac-Toe)
-[Stone-Paper-Scissors
-](https://github.com/talekarharshu/Stone-Paper-Scissor)
-[Currency Converter
+[[Tic-Tac-Toe
+](https://github.com/talekarharshu/Tic-Tac-Toe)](https://talekarharshu.github.io/Tic-Tac-Toe/)
+[[Stone-Paper-Scissors
+](https://github.com/talekarharshu/Stone-Paper-Scissor)](https://talekarharshu.github.io/Stone-Paper-Scissor/
+)
+[[Currency Converter
 ](https://github.com/talekarharshu/Currency_Converter)
-
+](https://talekarharshu.github.io/Currency_Converter/
+)
 
 
 ## 🌐 Socials:
