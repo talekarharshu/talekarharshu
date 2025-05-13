@@ -4,25 +4,24 @@ Hey there! I'm Harshada Talekar, a passionate Creative Web Developer with a love
 💻 Projects I've worked on:
 🔹 Chatbot – Developed a smart chatbot using HTML, CSS, JavaScript, Flask (Python), and the ChatterBot library. The chatbot interacts with users in a conversational manner and is capable of responding based on trained data. This project helped me combine front-end design with Python-based backend logic and AI-like behavior.
 
-🔹 Tic-Tac-Toe Game – Developed a classic two-player browser game with HTML, CSS, and JavaScript. Includes win logic and a clean, responsive UI for both mobile and desktop.
+🔹 Tic-Tac-Toe Game – Built a classic two-player browser game using HTML, CSS, and JavaScript. Includes intuitive win detection logic and a responsive layout for all screen sizes.
 
-🔹 Stone-Paper-Scissors Game – Designed a fun game where players challenge the computer with randomized choices, featuring smooth animations and score tracking.
+🔹 Stone-Paper-Scissors Game – Created a fun and interactive game where users compete against a computer with randomized choices. Features real-time results, score tracking, and animations for a smooth experience.
 
-🔹 Currency Converter (API Integration) – Created a fully functional web application that uses a real-time exchange rate API to convert between currencies. This project deepened my understanding of API calls and data handling in JavaScript.
+🔹 Currency Converter (API Integration) – Designed a responsive currency converter app that uses a real-time exchange rate API. It fetches and displays conversion results dynamically, offering a practical use of API integration in front-end development.
 
 🔗 Check out my work on GitHub:
 Chatbot
 
-[[Tic-Tac-Toe
-](https://github.com/talekarharshu/Tic-Tac-Toe)](https://talekarharshu.github.io/Tic-Tac-Toe/)
-[[Stone-Paper-Scissors
-](https://github.com/talekarharshu/Stone-Paper-Scissor)](https://talekarharshu.github.io/Stone-Paper-Scissor/
+[Tic-Tac-Toe
+](https://talekarharshu.github.io/Tic-Tac-Toe/
+Filter)
+[Stone-Paper-Scissors
+](https://talekarharshu.github.io/Stone-Paper-Scissor/
 )
-[[Currency Converter
-](https://github.com/talekarharshu/Currency_Converter)
+[Currency Converter
 ](https://talekarharshu.github.io/Currency_Converter/
 )
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/5R2wxBwR) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harshada-talekar-b472b4222) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/harshadatalekar27) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29991219) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshadatalekar27@gmail.com) 
