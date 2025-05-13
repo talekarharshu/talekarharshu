@@ -1,6 +1,24 @@
 # 💫 About Me:
-Hey there! I'm Harshada Talekar, a passionate Creative Web Developer with a love for building visually stunning and user-friendly websites. Currently balancing my IT studies, I thrive on creativity and problem-solving. When I’m not coding, you’ll find me listening to music, chatting with friends, or Hangout with friends and family. I believe in constant learning and enjoy pushing my skills to the next level. Let’s connect and create something amazing together! 
+Hey there! I'm Harshada Talekar, a passionate Creative Web Developer with a love for building visually stunning and user-friendly websites. Currently balancing my IT studies, I thrive on creativity and problem-solving. When I’m not coding, you’ll find me listening to music, chatting with friends, or hanging out with friends and family. I believe in constant learning and enjoy pushing my skills to the next level. Let’s connect and create something amazing together! 🚀
 
+💻 Projects I've worked on:
+🔹 Chatbot – Developed a smart chatbot using HTML, CSS, JavaScript, Flask (Python), and the ChatterBot library. The chatbot interacts with users in a conversational manner and is capable of responding based on trained data. This project helped me combine front-end design with Python-based backend logic and AI-like behavior.
+
+🔹 Tic-Tac-Toe Game – Developed a classic two-player browser game with HTML, CSS, and JavaScript. Includes win logic and a clean, responsive UI for both mobile and desktop.
+
+🔹 Stone-Paper-Scissors Game – Designed a fun game where players challenge the computer with randomized choices, featuring smooth animations and score tracking.
+
+🔹 Currency Converter (API Integration) – Created a fully functional web application that uses a real-time exchange rate API to convert between currencies. This project deepened my understanding of API calls and data handling in JavaScript.
+
+🔗 Check out my work on GitHub:
+Chatbot
+
+[Tic-Tac-Toe
+](https://github.com/talekarharshu/Tic-Tac-Toe)
+[Stone-Paper-Scissors
+](https://github.com/talekarharshu/Stone-Paper-Scissor)
+[Currency Converter
+](https://github.com/talekarharshu/Currency_Converter)
 
 
 
