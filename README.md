@@ -13,9 +13,9 @@ Hey there! I'm Harshada Talekar, a passionate Creative Web Developer with a love
 🔗 Check out my work on GitHub:
 Chatbot
 
-[Tic-Tac-Toe(https://talekarharshu.github.io/Tic-Tac-Toe/)]
-[Stone-Paper-Scissors (https://talekarharshu.github.io/Stone-Paper-Scissor/)]
-[Currency Converter(https://talekarharshu.github.io/Currency_Converter/)]
+[Tic-Tac-Toe](https://talekarharshu.github.io/Tic-Tac-Toe/)
+[Stone-Paper-Scissors] (https://talekarharshu.github.io/Stone-Paper-Scissor/)
+[Currency Converter](https://talekarharshu.github.io/Currency_Converter/)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/5R2wxBwR) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/harshada-talekar-b472b4222) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/harshadatalekar27) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29991219) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshadatalekar27@gmail.com) 
 
